@@ -1,8 +1,14 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+### Hey, I'm Dhaval
+I'm pursuing graduate studies at the University of Toronto with an emphasis in analytics. 
+
+
+
+
+
+
+
+
+
 
 <!--
 **DhavalkumarPatel/DhavalkumarPatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +23,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<details>
+<summary>Top Skills</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Javascript|
+|     2| Python    |
+|     3| SQL       |
+  
+</details>
 -->
