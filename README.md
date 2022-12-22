@@ -2,7 +2,19 @@
 I'm pursuing graduate studies at the University of Toronto with an emphasis in analytics. 
 
 
+### coursera-certifications
 
+- Deep Learning Specialization: http://coursera.org/verify/specialization/JB98GKBMJXWF
+
+|  | Course Name |
+|-----:|-----------|
+|     1| Neural Networks and Deep Learning|
+|     2| Structuring Machine Learning Projects    | 
+|     3| Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization| 
+|     4| Convolutional Neural Networks |
+|     5| Sequence Models |
+
+- Fundamentals of Reinforcement Learning: https://www.coursera.org/account/accomplishments/certificate/SVAY32SJ49XL
 
 
 
