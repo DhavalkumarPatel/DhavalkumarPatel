@@ -1,7 +1,7 @@
 ### Hey, I'm Dhaval
-- I'm in the final year of my graduate studies at the University of Toronto.
-- I'm captivated by the potential of machine learning, and I am always looking for opportunities to expand my knowledge and skills in this field.
-- Over the past few years, I have attained a wealth of experience in ML/DL through working on projects as part of the university courses, specializations from Coursera, and research partnerships.
+- I enjoy working with machine learning!
+- I'm always looking for opportunities to expand my knowledge and skills in this field.
+- Over the past few years, I have attained a wealth of experience in ML/DL through working on projects as part of the university courses, specializations from Coursera, and research assistantships.
 
 ### I'm proficient with:
 - Python‌
