@@ -1,10 +1,10 @@
 ### Hey, I'm Dhaval
-I'm pursuing graduate studies at the University of Toronto with an emphasis in analytics. 
-
+- I'm in the final year of my graduate studies at the University of Toronto with an emphasis in analytics.
+- I am captivated by the potential of machine learning, and I am always looking for opportunities to expand my knowledge and skills in this field.
 
 ### coursera-certifications
 
-- Deep Learning Specialization: http://coursera.org/verify/specialization/JB98GKBMJXWF
+- Deep Learning Specialization: http://coursera.org/verify/specialization/JB98GKBMJXWF,  2018
 
 |  | Course Name |
 |-----:|-----------|
@@ -14,7 +14,7 @@ I'm pursuing graduate studies at the University of Toronto with an emphasis in a
 |     4| Convolutional Neural Networks |
 |     5| Sequence Models |
 
-- Fundamentals of Reinforcement Learning: https://www.coursera.org/account/accomplishments/certificate/SVAY32SJ49XL
+- Fundamentals of Reinforcement Learning: https://www.coursera.org/account/accomplishments/certificate/SVAY32SJ49XL, 2022
 
 
 
