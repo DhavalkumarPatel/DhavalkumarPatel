@@ -10,7 +10,7 @@
 - Machine Learning and Deep Learning
 - ML Frameworks: PyTorch‌, Tensorflow
 
-### coursera-certifications
+### ML-related coursera-certifications
 
 - Deep Learning Specialization: http://coursera.org/verify/specialization/JB98GKBMJXWF,  2018
 
