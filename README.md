@@ -12,7 +12,7 @@
 
 ### ML-related coursera-certifications
 
-- Deep Learning Specialization: http://coursera.org/verify/specialization/JB98GKBMJXWF,  2018
+- Deep Learning Specialization: http://coursera.org/verify/specialization/JB98GKBMJXWF,  2020
 
 |  | Course Name |
 |-----:|-----------|
