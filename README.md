@@ -9,7 +9,6 @@
 - ML Libraries such as Scikit-Learn‌, Scipy
 - Machine Learning and Deep Learning
 - ML Frameworks: PyTorch‌, Tensorflow
-- Expereince with Reinforcement Learning
 
 ### ML-related coursera-certifications
 
