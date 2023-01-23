@@ -3,13 +3,6 @@
 - I'm always looking for opportunities to expand my knowledge and skills in this field.
 - Over the past few years, I have attained a wealth of experience in ML/DL through working on projects as part of the university courses, specializations from Coursera, and research assistantships.
 
-### I'm proficient with:
-- Python‌
-- NumPy‌, Pandas‌, Matplotlib‌, Seaborn‌
-- ML Libraries such as Scikit-Learn‌, Scipy
-- Machine Learning and Deep Learning
-- ML Frameworks: PyTorch‌, Tensorflow
-
 ### ML-related coursera-certifications
 
 - Deep Learning Specialization: http://coursera.org/verify/specialization/JB98GKBMJXWF,  2020
@@ -23,6 +16,19 @@
 |     5| Sequence Models |
 
 - Fundamentals of Reinforcement Learning: https://www.coursera.org/account/accomplishments/certificate/SVAY32SJ49XL, 2022
+
+### I'm proficient with:
+- Python‌
+
+- Probability and Statistics
+- Linear Algebra
+- **Machine Learning Algorithms:** Linear Regression, Lasso and Ridge regularisation, Logistic Regression, Decision Trees, Naive Bayesian Model, K- Nearest Neighbors, Support Vector Machine, Random Forest, Ada Boosting, Gradient Boosting — GBM, XG Boost, Neural Network — ANN, CNN, RNN, LSTM & GRU, Bert, Transformer, K-Means clustering, Hierarchical clustering — Agglomerative and Divisive, DBSCAN
+
+- **Natural Language Processing:** Stemming and Lemmatization, Bag of words, TF-IDF, Word Embeddings(W2V(CBOW, Skip gram), GloVe, ELMO, BERT), RNN, LSTM, GRU
+Encoder-Decoder for Seq2Seq tasks — Machine Translation, QA, Paraphrasing, Attention Mechanism and Transformer,Evaluation metrics like perplexity, BLEU, ROUGE score
+
+- **Programming:** Python: NumPy‌,Scipy , Pandas, Matplotlib, Seaborn, Sklearn, cv2, nltk and spacy, TF or Pytorch, Hugging faces — Transformers
+
 
 
 
