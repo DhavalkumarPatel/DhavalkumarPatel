@@ -27,7 +27,7 @@
 - **Natural Language Processing:** Stemming and Lemmatization, Bag of words, TF-IDF, Word Embeddings(W2V(CBOW, Skip gram), GloVe, ELMO, BERT), RNN, LSTM, GRU
 Encoder-Decoder for Seq2Seq tasks — Machine Translation, QA, Paraphrasing, Attention Mechanism and Transformer,Evaluation metrics like perplexity, BLEU, ROUGE score
 
-- **Programming:** Python: NumPy‌,Scipy , Pandas, Matplotlib, Seaborn, Sklearn, cv2, nltk and spacy, TF or Pytorch, Hugging faces — Transformers
+- **Programming:** Python: NumPy‌,Scipy , Pandas, Matplotlib, Seaborn, Sklearn, cv2, nltk and spacy, TF or Pytorch, Hugging faces — Transformers, SQL
 
 
 
