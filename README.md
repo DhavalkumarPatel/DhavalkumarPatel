@@ -24,9 +24,6 @@
 - Linear Algebra
 - **Machine Learning Algorithms:** Linear Regression, Lasso and Ridge regularisation, Logistic Regression, Decision Trees, Naive Bayesian Model, K- Nearest Neighbors, Support Vector Machine, Random Forest, Ada Boosting, Gradient Boosting — GBM, XG Boost, Neural Network — ANN, CNN, RNN, LSTM & GRU, Bert, Transformer, K-Means clustering, Hierarchical clustering — Agglomerative and Divisive, DBSCAN
 
-- **Natural Language Processing:** Stemming and Lemmatization, Bag of words, TF-IDF, Word Embeddings(W2V(CBOW, Skip gram), GloVe, ELMO, BERT), RNN, LSTM, GRU
-Encoder-Decoder for Seq2Seq tasks — Machine Translation, QA, Paraphrasing, Attention Mechanism and Transformer,Evaluation metrics like perplexity, BLEU, ROUGE score
-
 - **Programming:** Python: NumPy‌,Scipy , Pandas, Matplotlib, Seaborn, Sklearn, cv2, nltk and spacy, TF or Pytorch, Hugging faces — Transformers, SQL
 
 
